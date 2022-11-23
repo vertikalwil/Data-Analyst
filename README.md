@@ -8,7 +8,7 @@ Projek ini berfokus untuk menganalisa dan menemukan insights penjualan pada peru
 Projek ini berfokus untuk menganalisa data interview HR (Human Resources) pada suatu perusahaan multi nasional untuk mendapatkan insights dari karyawan. Tool yang saya gunakan hanya Power BI. Tujuan dari projek ini adalah untuk membuktikan bahwa Power BI sendiri cukup kuat untuk melakukan analisa dan visualisasi data.
 
 ## PROJECT3
-Projek ini dikhususkan untuk transformasi dan pembersihan data. Saya menggunakan python dengan library numpy, pandas dan matplotlib.
+Projek ini dikhususkan untuk transformasi dan pembersihan data. Saya menggunakan tool python dengan library numpy, pandas dan matplotlib.
 
 ## PROJECT4
 Projek ini berfokus untuk mencari insights atau penyebab banyaknya pesanan gagal dalam sebuah perusahaan taxi online. Tool yang saya gunakan adalah python dengan library numpy, pandas dan matplotlib.
