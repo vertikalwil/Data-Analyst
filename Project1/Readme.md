@@ -9,4 +9,4 @@ Files:
 6. sales.csv = subset dalam bentuk csv.
 7. stores.csv = subset dalam bentuk csv.
 
-File subset dapat didownload di website : sqlbi.com
+File subset berasal dari website : sqlbi.com
