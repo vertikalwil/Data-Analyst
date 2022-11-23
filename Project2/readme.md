@@ -2,6 +2,7 @@ HR dalam suatu perusahaan baru saja melakukan perubahan kebijakan besar-besaran 
 
 Files:
 1. Project Power BI 2.pbix = Hasil analisa dan visualisasi dalam Power BI.
-2. Slides.pdf = Dashboard dan pages dari Power BI dalam bentuk PDF.
+2. Slides.pdf = Dashboard dan pages dari Power BI dalam bentuk pdf.
+3. datasets.csv = Subset file dalam bentuk csv.
 
 File subset berasal dari website : enterprisedna.com
