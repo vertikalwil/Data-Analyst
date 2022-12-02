@@ -11,7 +11,7 @@ Projek ini berfokus untuk menganalisa data interview HR (Human Resources) pada s
 Projek ini dikhususkan untuk transformasi dan pembersihan data. Saya menggunakan tool python dengan library numpy, pandas dan matplotlib.
 
 ## PROJECT4
-Projek ini berfokus untuk mencari insights atau penyebab banyaknya pesanan gagal dalam sebuah perusahaan taxi online. Tool yang saya gunakan adalah python dengan library numpy, pandas dan matplotlib.
+Projek ini berfokus untuk mencari insights atau penyebab banyaknya pesanan gagal dalam sebuah perusahaan taxi online. Tool yang saya gunakan adalah python dengan library numpy, pandas dan matplotlib. Analisa yang digunakan adalah descriptive analysis (descriptive statistic).
 
 ## PROJECT5
 Projek ini hanya berfokus kepada Excel VBA.
